@@ -115,4 +115,3 @@ FNP-Sales-Analysis/
 ## Project Outcome
 
 This project demonstrates how Microsoft Excel can be used as a Business Intelligence tool to convert raw sales data into actionable insights. Through interactive dashboards and pivot-table-driven analysis, stakeholders can monitor performance, identify trends, and make informed business decisions.
-
